@@ -1,3 +1,5 @@
+require 'active_support'
+
 module RenderedCsv
   module Controller
     extend ActiveSupport::Concern
